@@ -1,0 +1,19 @@
+# macOS sistem dosyaları
+.DS_Store
+
+# VS Code ayarları
+.vscode/
+
+# Log dosyaları
+*.log
+
+# Geçici/Swap dosyaları
+*.tmp
+*.swp
+
+# Eğer build aracı eklenirse (şimdilik dursun)
+node_modules/
+dist/
+build/
+.cache/
+.sass-cache/
